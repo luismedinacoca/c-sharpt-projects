@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/bin/Debug/net8.0/_05_Debugger
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/bin/Debug/net8.0/_05_Debugger.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/bin/Debug/net8.0/_05_Debugger.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/bin/Debug/net8.0/_05_Debugger.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/bin/Debug/net8.0/_05_Debugger.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/refint/_05_Debugger.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/_05_Debugger.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_05_Debugger/obj/Debug/net8.0/ref/_05_Debugger.dll

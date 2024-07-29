@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/bin/Debug/net8.0/_13_lists
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/bin/Debug/net8.0/_13_lists.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/bin/Debug/net8.0/_13_lists.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/bin/Debug/net8.0/_13_lists.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/bin/Debug/net8.0/_13_lists.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/refint/_13_lists.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/_13_lists.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_13_lists/obj/Debug/net8.0/ref/_13_lists.dll

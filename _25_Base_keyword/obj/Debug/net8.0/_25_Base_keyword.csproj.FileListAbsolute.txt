@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/bin/Debug/net8.0/_25_Base_keyword
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/bin/Debug/net8.0/_25_Base_keyword.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/bin/Debug/net8.0/_25_Base_keyword.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/bin/Debug/net8.0/_25_Base_keyword.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/bin/Debug/net8.0/_25_Base_keyword.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/refint/_25_Base_keyword.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/_25_Base_keyword.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_25_Base_keyword/obj/Debug/net8.0/ref/_25_Base_keyword.dll

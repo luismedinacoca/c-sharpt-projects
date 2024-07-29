@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/bin/Debug/net8.0/_20_Method_overriding
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/bin/Debug/net8.0/_20_Method_overriding.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/bin/Debug/net8.0/_20_Method_overriding.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/bin/Debug/net8.0/_20_Method_overriding.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/bin/Debug/net8.0/_20_Method_overriding.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/refint/_20_Method_overriding.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/_20_Method_overriding.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_20_Method_overriding/obj/Debug/net8.0/ref/_20_Method_overriding.dll

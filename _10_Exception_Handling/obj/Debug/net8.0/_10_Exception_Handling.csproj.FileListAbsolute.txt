@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/bin/Debug/net8.0/_10_Exception_Handling
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/bin/Debug/net8.0/_10_Exception_Handling.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/bin/Debug/net8.0/_10_Exception_Handling.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/bin/Debug/net8.0/_10_Exception_Handling.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/bin/Debug/net8.0/_10_Exception_Handling.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/refint/_10_Exception_Handling.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/_10_Exception_Handling.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_10_Exception_Handling/obj/Debug/net8.0/ref/_10_Exception_Handling.dll

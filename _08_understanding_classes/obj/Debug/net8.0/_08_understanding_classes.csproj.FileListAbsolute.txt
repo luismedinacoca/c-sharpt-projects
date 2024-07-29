@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/bin/Debug/net8.0/_08_understanding_classes
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/bin/Debug/net8.0/_08_understanding_classes.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/bin/Debug/net8.0/_08_understanding_classes.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/bin/Debug/net8.0/_08_understanding_classes.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/bin/Debug/net8.0/_08_understanding_classes.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/refint/_08_understanding_classes.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/_08_understanding_classes.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_08_understanding_classes/obj/Debug/net8.0/ref/_08_understanding_classes.dll

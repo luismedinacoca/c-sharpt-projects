@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/bin/Debug/net8.0/_18_Properties
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/bin/Debug/net8.0/_18_Properties.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/bin/Debug/net8.0/_18_Properties.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/bin/Debug/net8.0/_18_Properties.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/bin/Debug/net8.0/_18_Properties.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/refint/_18_Properties.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/_18_Properties.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_18_Properties/obj/Debug/net8.0/ref/_18_Properties.dll

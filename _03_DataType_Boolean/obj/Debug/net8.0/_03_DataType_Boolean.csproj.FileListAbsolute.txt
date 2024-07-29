@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/bin/Debug/net8.0/_03_DataType_Boolean
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/bin/Debug/net8.0/_03_DataType_Boolean.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/bin/Debug/net8.0/_03_DataType_Boolean.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/bin/Debug/net8.0/_03_DataType_Boolean.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/bin/Debug/net8.0/_03_DataType_Boolean.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/refint/_03_DataType_Boolean.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/_03_DataType_Boolean.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_03_DataType_Boolean/obj/Debug/net8.0/ref/_03_DataType_Boolean.dll

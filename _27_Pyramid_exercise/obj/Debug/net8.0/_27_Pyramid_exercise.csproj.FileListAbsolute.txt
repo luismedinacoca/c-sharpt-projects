@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/bin/Debug/net8.0/_27_Pyramid_exercise
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/bin/Debug/net8.0/_27_Pyramid_exercise.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/bin/Debug/net8.0/_27_Pyramid_exercise.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/bin/Debug/net8.0/_27_Pyramid_exercise.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/bin/Debug/net8.0/_27_Pyramid_exercise.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/refint/_27_Pyramid_exercise.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/_27_Pyramid_exercise.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_27_Pyramid_exercise/obj/Debug/net8.0/ref/_27_Pyramid_exercise.dll

@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/bin/Debug/net8.0/_06_Try_Parse_Function
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/bin/Debug/net8.0/_06_Try_Parse_Function.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/bin/Debug/net8.0/_06_Try_Parse_Function.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/bin/Debug/net8.0/_06_Try_Parse_Function.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/bin/Debug/net8.0/_06_Try_Parse_Function.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/refint/_06_Try_Parse_Function.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/_06_Try_Parse_Function.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_06_Try_Parse_Function/obj/Debug/net8.0/ref/_06_Try_Parse_Function.dll

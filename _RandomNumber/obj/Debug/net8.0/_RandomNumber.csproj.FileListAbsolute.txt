@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/bin/Debug/net8.0/_RandomNumber
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/bin/Debug/net8.0/_RandomNumber.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/bin/Debug/net8.0/_RandomNumber.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/bin/Debug/net8.0/_RandomNumber.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/bin/Debug/net8.0/_RandomNumber.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/refint/_RandomNumber.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/_RandomNumber.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_RandomNumber/obj/Debug/net8.0/ref/_RandomNumber.dll

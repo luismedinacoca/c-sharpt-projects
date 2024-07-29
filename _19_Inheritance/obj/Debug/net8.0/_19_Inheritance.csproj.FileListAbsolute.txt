@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/bin/Debug/net8.0/_19_Inheritance
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/bin/Debug/net8.0/_19_Inheritance.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/bin/Debug/net8.0/_19_Inheritance.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/bin/Debug/net8.0/_19_Inheritance.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/bin/Debug/net8.0/_19_Inheritance.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/refint/_19_Inheritance.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/_19_Inheritance.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_19_Inheritance/obj/Debug/net8.0/ref/_19_Inheritance.dll

@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/bin/Debug/net8.0/_01_DataType_Numbers
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/bin/Debug/net8.0/_01_DataType_Numbers.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/bin/Debug/net8.0/_01_DataType_Numbers.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/bin/Debug/net8.0/_01_DataType_Numbers.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/bin/Debug/net8.0/_01_DataType_Numbers.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/refint/_01_DataType_Numbers.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/_01_DataType_Numbers.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_01_DataType_Numbers/obj/Debug/net8.0/ref/_01_DataType_Numbers.dll

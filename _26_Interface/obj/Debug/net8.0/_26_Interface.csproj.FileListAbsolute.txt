@@ -1,0 +1,14 @@
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/bin/Debug/net8.0/_26_Interface
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/bin/Debug/net8.0/_26_Interface.deps.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/bin/Debug/net8.0/_26_Interface.runtimeconfig.json
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/bin/Debug/net8.0/_26_Interface.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/bin/Debug/net8.0/_26_Interface.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.AssemblyInfoInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.AssemblyInfo.cs
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.csproj.CoreCompileInputs.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/refint/_26_Interface.dll
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.pdb
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/_26_Interface.genruntimeconfig.cache
+/Users/luisjaviermedinacoca/RiderProjects/C_Sharp_Projects/_26_Interface/obj/Debug/net8.0/ref/_26_Interface.dll

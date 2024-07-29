@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_23_Abstract_classes_and_abstract_methods/1.0.0": {
+        "runtime": {
+          "_23_Abstract_classes_and_abstract_methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_23_Abstract_classes_and_abstract_methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
